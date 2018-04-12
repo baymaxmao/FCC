@@ -1,0 +1,52 @@
+body{
+    margin: 0;
+    background-image: url(images/back.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+     font-family:Monospace;
+}
+img{
+    width:20px;
+    height:20px;
+}
+.weather-box{
+
+    margin:20% 25%;
+}
+.box{
+     background: #E3E3E3;
+    opacity: 0.7;
+    width:480px;
+    text-align: center;
+    border-radius: 5px;
+}
+.title{
+    padding-top:10px;
+    font-weight:bold;
+    font-size:18px;
+}
+.weather-app{
+    font-size:24px;
+    font-weight: bold;
+    height:100px;
+    line-height: 100px;
+
+}
+.weather-tod{
+    margin-top:20px;
+    height:150px;
+
+}
+p{
+    padding-top:5px;
+    font-size:16px;
+    margin:5px;
+}
+.weather-pre {
+    margin-top:20px;
+    height:350px;
+}
+.c-content div{
+    font-size:16px;
+    padding:10px;
+}
